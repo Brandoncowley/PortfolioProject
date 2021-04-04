@@ -17,4 +17,4 @@ https://brandoncowley.github.io/PortfolioProject/
 
 Screenshot of Portfolio:
 
-![This is my first online portfolio!](assets/Website screenshot.jpg)
+![This is my first online portfolio!](assets/Websitescreenshot.jpg)
